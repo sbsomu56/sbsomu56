@@ -2,7 +2,15 @@
 
 I am a **Associate Director** at **UBS Business Solutions, India** focusing on the validation of Counterparty Credit Risk models in the Model Risk Management & Control team.
 
-StatCasm Website https://www.statcasm.com/
+Experienced in the validation of models in Counterparty Credit Risk domain like:
+- Credit Economic Risk Capital (ERC) model
+- Trading Incremental Default Risk (IDR) model
+- Incremental Risk Charge (IRC) model
+
+Experienced in creating Shiny dashboard: https://sbsomu56.shinyapps.io/
+statsolvers_website/
+
+Co-started a website StatCasm Website https://www.statcasm.com/ which provides free automated solution to statistical problems. Built using Next JS and Plumber API in R.
 
 Here are some ideas to get you started:
 
