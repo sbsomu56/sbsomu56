@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a **Associate Director** at **UBS Business Solutions, India** focusing on the validation of Counterparty Credit Risk models in the Model Risk Management & Control team.
+I am a **Associate Director** at **UBS Business Solutions, India** focusing on the validation of Portfolio Credit Risk models in the Model Risk Management & Control (MRMC) team.
 
-Experienced in the validation of models in Counterparty Credit Risk domain like:
+Experienced in the validation of models in Portfolio Credit Risk domain like:
 - Credit Economic Risk Capital (ERC) model
 - Trading Incremental Default Risk (IDR) model
 - Incremental Risk Charge (IRC) model
