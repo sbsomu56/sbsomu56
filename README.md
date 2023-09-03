@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a **Associate Director** at **UBS Business Solutions, India** focusing on the validation of Portfolio Credit Risk models in the Model Risk Management & Control (MRMC) team.
+I am working as a **Delivery Manager** at **Acuity Knowledge Partners, Bangalore** focusing on the validation of risk models in large multinational banks.
 
 Experienced in the validation of models in Portfolio Credit Risk domain like:
 - Credit Economic Risk Capital (ERC) model
