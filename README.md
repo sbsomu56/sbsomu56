@@ -7,8 +7,7 @@ Experienced in the validation of models in Portfolio Credit Risk domain like:
 - Trading Incremental Default Risk (IDR) model
 - Incremental Risk Charge (IRC) model
 
-Experienced in creating Shiny dashboard: https://sbsomu56.shinyapps.io/
-statsolvers_website/
+Experienced in creating Shiny dashboard: https://sbsomu56.shinyapps.io/statsolvers_website/
 
 Co-started a website StatCasm Website https://www.statcasm.com/ which provides free automated solution to statistical problems. Built using Next JS and Plumber API in R.
 
